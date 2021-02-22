@@ -1,8 +1,7 @@
 
 ### Hi, I'm Nijat Hamidov 👋
-🔭 I’m currently working as a Freelancer, <br/>
-🌱 I’m currently (re)learning Android (Java), Svelte, TailwindCss, NuxtJS <br/>
-&#x1F517; [https://NijatHamid.github.io/](https://NijatHamid.github.io/) <br/>
+🔭 I’m currently working as a Developer, <br/>
+🌱 I’m currently learning Android (Java), .NET, Angular <br/>
 ![](https://komarev.com/ghpvc/?username=NijatHamid&color=green&style=flat)
 <hr/>
 <h3 align="center">Stack</h3>
@@ -27,21 +26,9 @@
 
 <hr/>
 
-[![My Github stats](https://github-readme-stats-1.NijatHamid.vercel.app/api?username=NijatHamid&count_private=true&theme=dark&show_icons=true&hide=stars)](https://github.com/NijatHamid/)
-[![Top Langs](https://github-readme-stats-1.NijatHamid.vercel.app/api/top-langs/?username=NijatHamid&theme=dark&layout=compact)](https://github.com/NijatHamid)
-
-
-
-
-
-
-
-
-
-
 <details open>
   <a href="https://www.linkedin.com/in/nijat-hamidov-bb272a176/">
-  <img align="left" alt=" Linkdein" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt=" Linkdein" width="16px" src="maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
 </a>
 <a href="https://github.com/NijatHamid">
   <img align="left" alt="Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
