@@ -28,7 +28,7 @@
 
 <details open>
   <a href="https://www.linkedin.com/in/nijat-hamidov-bb272a176/">
-  <img align="left" alt=" Linkdein" width="16px" src="maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+  <img align="left" alt=" Linkdein" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/NijatHamid">
   <img align="left" alt="Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
