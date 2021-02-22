@@ -1,6 +1,10 @@
 
 ### Hi, I'm Nijat Hamidov 👋
-
+🔭 I’m currently working as a Freelancer, <br/>
+🌱 I’m currently (re)learning Android (Java), Svelte, TailwindCss, NuxtJS <br/>
+&#x1F517; [https://NijatHamid.github.io/](https://NijatHamid.github.io/) <br/>
+![](https://komarev.com/ghpvc/?username=NijatHamid&color=green&style=flat)
+<hr/>
 <h3 align="center">Stack</h3>
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
@@ -25,6 +29,14 @@
 
 [![My Github stats](https://github-readme-stats-1.NijatHamid.vercel.app/api?username=NijatHamid&count_private=true&theme=dark&show_icons=true&hide=stars)](https://github.com/NijatHamid/)
 [![Top Langs](https://github-readme-stats-1.NijatHamid.vercel.app/api/top-langs/?username=NijatHamid&theme=dark&layout=compact)](https://github.com/NijatHamid)
+
+
+
+
+
+
+
+
 
 
 <details open>
