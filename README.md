@@ -28,7 +28,7 @@
 
 <details open>
   <a href="https://www.linkedin.com/in/nijat-hamidov-bb272a176/">
-  <img align="left" alt=" Linkdein" width="16px" src="http://www.w3.org/2000/svg" />
+  <img align="left" alt=" Linkdein" width="16px" src="https://simpleicons.org/icons/scaleway.svg" />
 </a>
 <a href="https://github.com/NijatHamid">
   <img align="left" alt="Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
