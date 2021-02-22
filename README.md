@@ -23,8 +23,8 @@
 
 <hr/>
 
-[![My Github stats](https://github-readme-stats-1.ogtayhuseynov0.vercel.app/api?username=ogtayhuseynov0&count_private=true&theme=dark&show_icons=true&hide=stars)](https://github.com/NijatHamid/)
-[![Top Langs](https://github-readme-stats-1.ogtayhuseynov0.vercel.app/api/top-langs/?username=ogtayhuseynov0&theme=dark&layout=compact)](https://github.com/NijatHamid)
+[![My Github stats](https://github-readme-stats-1.NijatHamid.vercel.app/api?username=NijatHamid&count_private=true&theme=dark&show_icons=true&hide=stars)](https://github.com/NijatHamid/)
+[![Top Langs](https://github-readme-stats-1.NijatHamid.vercel.app/api/top-langs/?username=NijatHamid&theme=dark&layout=compact)](https://github.com/NijatHamid)
 
 
 <details open>
